@@ -5,7 +5,7 @@
 手动实现前向传播、反向传播、梯度下降、L2正则化等功能。
 
 ## 二、环境依赖
-python >= 3.7<br>
+python >=3.7<br>
 numpy<br>
 matplotlib<br>
 scikit-learn<br>

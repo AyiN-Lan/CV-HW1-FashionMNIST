@@ -23,7 +23,9 @@ final_best_model.npz：最优模型权重文件<br>
 train_curve.png：训练/验证损失与准确率曲线<br>
 confusion_matrix.png：分类混淆矩阵<br>
 all_neurons.png：第一层神经元权重可视化<br>
-error_analysis.png：测试集错例可视化
+error_analysis.png：测试集错例可视化<br>
+draw_neurons_4parts.py:用于生成报告内展示的清晰神经元展示图像
+neurons_part*.png:draw_neurons_4parts.py生成的分组后的神经元可视化图片
 
 ## 四、运行方法
 1. 确保 datasets 文件夹与 main.py 在同一级目录<br>
